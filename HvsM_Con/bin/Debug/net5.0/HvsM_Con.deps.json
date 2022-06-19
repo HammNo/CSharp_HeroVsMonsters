@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HvsM_Con/1.0.0": {
+        "dependencies": {
+          "HeroesVsMonster.BLL": "1.0.0"
+        },
+        "runtime": {
+          "HvsM_Con.dll": {}
+        }
+      },
+      "HeroesVsMonster.BLL/1.0.0": {
+        "runtime": {
+          "HeroesVsMonster.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HvsM_Con/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeroesVsMonster.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
